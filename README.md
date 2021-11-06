@@ -1,5 +1,4 @@
-### Olá, eu sou a Janice 👋
-Dev Back-End em formação
+### Olá, eu sou a Janice | Dev Back-End em formação
 
 <div align="left">
   <a href="https://github.com/janicecaldeira">
