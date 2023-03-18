@@ -1,4 +1,4 @@
-### Olá, eu sou a Janice | Dev Back-End Jr
+### Olá, eu sou a Janice | Dev Back-End
 
 <div align="left">
   <a href="https://github.com/janicecaldeira">
