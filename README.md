@@ -1,10 +1,5 @@
 ### Olá, eu sou a Janice | Desenvolvedora Backend
 
-<div align="left">
-  <a href="https://github.com/janicecaldeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janicecaldeira&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
   <div style="display: inline_block"><br>
   <img align="center" alt="Janice-Aws" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Janice-Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
