@@ -17,7 +17,7 @@
 
 ### Sobre mim
 
-Sou desenvolvedora backend com formação em Análise e Desenvolvimento de Sistemas, também sou Pós Graduada em Gestão de Processos. Movida por desafios e sempre em busca de aperfeiçoamento, estou pronta para aprender novas linguagens e tecnologias que permitam entregar soluções de qualidade. Trabalho com foco na criação de APIs robustas e eficientes, utilizando principalmente Node.js e tecnologias serverless.
+Desenvolvedora backend com sólida experiência no desenvolvimento de APIs escaláveis e sistemas robustos, utilizando Node.js, TypeScript e tecnologias serverless. Especialista em arquitetura orientada a eventos, integração de sistemas e práticas ágeis. Apaixonada por criar soluções que otimizem processos e gerem impacto real para os usuários. Atualmente cursando Pós-Graduação em Engenharia de Software.
 
 ### Habilidades
 
