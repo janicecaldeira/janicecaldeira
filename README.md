@@ -1,51 +1,52 @@
-### Olá, eu sou a Janice | Desenvolvedora Backend
+<h1 align="center">Janice Caldeira</h1>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Janice-Aws" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Janice-Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Janice-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="Janice-Npm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Janice-Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg">
-  <img align="center" alt="Janice-Mongo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="Janice-Mongoose" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg">
-  <img align="center" alt="Janice-Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-  <img align="center" alt="Janice-Vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Janice-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/femalecodertocat.png">
-</div>
+<p align="center">
+  <strong>Desenvolvedora Backend</strong><br>
+  Node.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Kafka &nbsp;·&nbsp; Kubernetes
+</p>
 
----
-
-### Sobre mim
-
-Desenvolvedora backend com sólida experiência no desenvolvimento de APIs escaláveis e sistemas robustos, utilizando Node.js, TypeScript e tecnologias serverless. Especialista em arquitetura orientada a eventos, integração de sistemas e práticas ágeis. Apaixonada por criar soluções que otimizem processos e gerem impacto real para os usuários. Atualmente cursando Pós-Graduação em Engenharia de Software.
-
-### Habilidades
-
-• **Desenvolvimento de REST APIs**  
-• **Backend**: Node.js, NestJS, JavaScript, TypeScript, Serverless  
-• **Banco de Dados**: SQL, MySQL, Postgres, TypeORM, MongoDB  
-• **Versionamento e Gestão de Código**: Git, Gitflow, Code Review  
-• **Testes**: Jest  
-• **Metodologias Ágeis**: Scrum, Kanban  
-• **Suíte Atlassian**: Jira, Confluence, Trello, Bitbucket  
-• Experiência com trabalho remoto (dentro e fora da área de tecnologia)  
-• Facilidade na documentação de projetos e processos 
+<p align="center">
+  <a href="https://www.linkedin.com/in/janicecaldeira">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:janicecaldeira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-### Vamos nos conectar?
+### Sobre
 
-<div> 
-  <a href="https://www.linkedin.com/in/janicecaldeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/janicecaldeira" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="mailto:janicecaldeira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/janicecaldeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5531988213738" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+Desenvolvedora backend com foco em sistemas distribuídos e arquitetura
+orientada a eventos, usando Node.js e TypeScript.
+
+O que mais me interessa é confiabilidade: contratos bem definidos entre
+serviços, idempotência em operações que não podem acontecer duas vezes, testes
+que de fato testam e observabilidade que responde perguntas em vez de só
+gerar gráfico. Gosto de domínios onde erro custa caro — é onde esse cuidado
+faz diferença de verdade.
 
 ---
 
-#### Perfil Profissional
+### Stack
 
-*Desenvolvedora na empresa Mkplace Technology*  
-<a href="https://github.com/janice-mkplace" target="_blank">https://github.com/janice-mkplace</a>
+| | |
+|:--|:--|
+| **Linguagens** | TypeScript · Node.js · JavaScript |
+| **Frameworks** | Fastify · NestJS |
+| **Mensageria** | Kafka · AWS SQS/SNS · arquitetura orientada a eventos |
+| **Dados** | MongoDB · PostgreSQL · MySQL · Redis |
+| **Infraestrutura** | Kubernetes · Docker · AWS · Oracle Cloud · Argo CD |
+| **Observabilidade** | OpenTelemetry · Prometheus · Grafana |
+| **Qualidade** | Jest · mutation testing · testes de contrato · CI/CD |
+| **Gateway e auth** | Kong · Keycloak |
+
+---
+
+### Formação
+
+- **Pós-graduação em Engenharia de Software** — Estácio, 2025
+- **Análise e Desenvolvimento de Sistemas** — Estácio, 2023
+- **Inglês** — C1
+
